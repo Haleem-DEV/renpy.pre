@@ -1,7 +1,7 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-I plan to make a visual novel about a boy and his life. 
+I plan to make a horror visual novel about a sad boy
 TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
